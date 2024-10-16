@@ -10,3 +10,7 @@ bernama Anton dan Riko dan panggil
 method setter dan getter.
 
 # class person
+* atribut
+
+  ![1](https://github.com/user-attachments/assets/13af334d-351b-4eb4-903d-6a7dd9d6cf98)
+
