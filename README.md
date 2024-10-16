@@ -81,3 +81,20 @@ method setter dan getter.
 ![13](https://github.com/user-attachments/assets/190c15f6-14f8-496c-bf5a-8304f5784241)
 
 
+# Penjelasan kode
+
+Deklarasi Class: Class Person memiliki tiga atribut: nama, jenisKelamin, dan umur. Semua atribut tersebut dideklarasikan dengan access modifier private untuk melindungi data agar tidak bisa diakses langsung dari luar class.
+
+Constructor: Constructor Person digunakan untuk menginisialisasi objek baru dengan nilai nama, jenis kelamin, dan umur.
+
+Method Getter:
+Getter adalah method yang digunakan untuk mengakses nilai dari atribut privat.
+Contohnya, getNama() mengembalikan nilai atribut nama.
+
+Method Setter:
+Setter adalah method yang digunakan untuk mengubah nilai dari atribut privat.
+Contohnya, setNama(String nama) digunakan untuk menetapkan nilai baru pada atribut nama.
+
+Menampilkan Informasi: Method tampilkanInfo() digunakan untuk mencetak informasi lengkap tentang objek Person.
+
+Objek Anton dan Riko: Di dalam class Main, dua objek Person dibuat, yaitu anton dan riko, dan informasi mereka ditampilkan menggunakan method tampilkanInfo().
